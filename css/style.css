@@ -1,0 +1,18 @@
+.navbar{
+    border-bottom: 5px solid #098AC2;
+    
+    
+}
+.nav-link{
+    font-size: 1.4rem;
+}
+
+header{
+    min-height: 100vh;
+    background:linear-gradient(rgba( 0 , 0 , 0 , .7), rgba( 0 , 0 , 0 , .7)) ,
+    url(../images/pexels-photo-3779705.webp);
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+    text-size-adjust: 50px;
+}
